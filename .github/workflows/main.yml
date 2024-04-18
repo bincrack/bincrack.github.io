@@ -32,7 +32,7 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
 
-      - name: Install Hugo
+      - name: Install Hugo ${{ env.HUGO_VERSION }}
         run: |
           curl -LO "https://github.com/gohugoio/hugo/releases/download/v${{ env.HUGO_VERSION }}/hugo_extended_${{ env.HUGO_VERSION }}_Linux-64bit.tar.gz"
           tar -xvf hugo_extended_${{ env.HUGO_VERSION }}_Linux-64bit.tar.gz
@@ -45,6 +45,8 @@ jobs:
         id: go
         with:
           go-version: ${{ env.GO_VERSION }}
+
+      - name: Install Go
         run: |
           go version
       #   run: |
