@@ -13,7 +13,7 @@ logo_webp = true
 # logo text will only show when logo is missing.
 logo_text = "《出版广角》杂志"
 # navbar fixed to top
-navbar_fixed = true
+navbar_fixed = false
 # theme-mode
 theme_switcher = false
 theme_default = "system" # available options [light/dark/system]

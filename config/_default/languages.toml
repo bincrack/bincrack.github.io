@@ -2,7 +2,7 @@
 [zh]
 languageName = "中文"
 languageCode = "zh-cn"
-contentDir = "content/cn"
+contentDir = "content/zh"
 weight = 1
 
 ################ English language ##################
