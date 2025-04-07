@@ -3,11 +3,11 @@
 banner:
   title: "出版广角"
   content: "《出版广角》杂志创刊于1995年，由广西师范大学主管、广西期刊传媒集团有限公司主办，以“与中国出版同步，为中国出版服务”为宗旨，站在中国出版主流文化的层面，悉心关注出版文化的大事和大势，已发展成为具有理论先导地位和新锐气象的高品位专业期刊。"
-  image: "/cbgj/CBGJ.jpg"
+  image: "/images/CBGJ.jpg"
   button:
     enable: true
-    label: "出版广角杂志"
-    link: "https://www.xueshu.com.cn/cbgj/"
+    label: "《出版广角》杂志"
+    link: "/blog/cbgj/"
 
 # Features
 features:

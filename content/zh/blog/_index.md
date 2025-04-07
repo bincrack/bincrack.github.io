@@ -1,5 +1,6 @@
 ---
-title: "Blog Posts"
+title: "期刊目录"
 meta_title: ""
-description: "this is meta description"
+keywords: "期刊目录 期刊导航 期刊列表"
+description: "期刊目录, 期刊导航, 期刊列表"
 ---

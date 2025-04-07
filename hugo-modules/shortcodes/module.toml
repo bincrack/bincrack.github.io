@@ -75,3 +75,13 @@ target = "assets/scss"
 [[imports.mounts]]
 source = "gallery/assets/plugins"
 target = "assets/plugins"
+
+# echarts
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/shortcodes/echarts"
+[[imports.mounts]]
+source = "echarts/layouts/shortcodes"
+target = "layouts/shortcodes"
+[[imports.mounts]]
+source = "echarts/assets/plugins"
+target = "assets/plugins"

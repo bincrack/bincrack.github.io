@@ -83,8 +83,8 @@ path = "../hugo-modules/seo-tools/site-verifications"
 [[imports]]
 path = "../hugo-modules/seo-tools/google-tag-manager"
 
-# [[imports]]
-# path = "../hugo-modules/seo-tools/baidu-analytics"
+[[imports]]
+path = "../hugo-modules/seo-tools/baidu-analytics"
 
 # [[imports]]
 # path = "../hugo-modules/seo-tools/matomo-analytics"
@@ -94,3 +94,6 @@ path = "../hugo-modules/seo-tools/google-tag-manager"
 
 # [[imports]]
 # path = "../hugo-modules/seo-tools/counter-analytics"
+
+[[imports]]
+path = "../hugo-modules/shortcodes/echarts"

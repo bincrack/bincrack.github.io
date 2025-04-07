@@ -2,7 +2,7 @@
   translation: 首页
 
 - id: read_more
-  translation: Read More
+  translation: 查看
 
 - id: send
   translation: Send
@@ -11,16 +11,16 @@
   translation: Related Posts
 
 - id: categories
-  translation: Categories
+  translation: 分类
 
 - id: tags
-  translation: Tags
+  translation: 标签
 
 - id: toc
-  translation: Table of Contents
+  translation: 目录
 
 - id: share
-  translation: Share
+  translation: 分享
 
 - id: search_input_placeholder
   translation: Search Post ...

@@ -5,3 +5,14 @@
 name = "首页"
 pageRef = "/"
 weight = 1
+
+[[main]]
+name = "期刊目录"
+pageRef = "/blog"
+weight = 2
+
+
+[[main]]
+name = "出版广角"
+pageRef = "/blog/cbgj"
+weight = 3

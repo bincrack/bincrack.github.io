@@ -6,13 +6,15 @@
           {{ $image:= .Params.image }}
           {{ if $image }}
             <div class="mb-10">
-              {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "w-full rounded") }}
+              {{ partial "image" (dict "Src" $image "Alt" .Title "Class" "mx-auto") }}
             </div>
           {{ end }}
           <h1 class="h2 mb-4">
             {{ .Title }}
           </h1>
           <ul class="mb-4">
+            {{ $author:= .Params.author }}
+            {{ if $author }}
             <li class="mr-4 inline-block">
               <a
                 href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
@@ -20,6 +22,7 @@
                 >{{ .Params.author }}
               </a>
             </li>
+            {{ end }}
             {{ $categories:= .Params.categories }}
             {{ if $categories }}
               <li class="mr-4 inline-block">
@@ -35,10 +38,13 @@
                 {{ end }}
               </li>
             {{ end }}
+            {{ $date:= .Params.date }}
+            {{ if $date }}
             <li class="mr-4 inline-block">
               <i class="fa-regular fa-clock mr-2"></i>
               {{ time.Format ":date_long" .PublishDate }}
             </li>
+            {{ end }}
           </ul>
           <div class="content mb-10">
             {{ .Content }}

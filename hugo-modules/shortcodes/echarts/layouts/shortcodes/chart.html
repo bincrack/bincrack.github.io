@@ -1,0 +1,15 @@
+{{ $w := default "100" (.Get 0) }}
+{{ $h := default "300" (.Get 1) }}
+{{ $r := ( .Inner | chomp) }}
+{{ $seed := "foo" }}
+{{ $id := delimit (shuffle (split (md5 $seed) "" )) "" }}
+
+<div id="{{ $id }}" style="width: {{ $w }}%;height: {{ $h }}px;margin: 0 auto">
+</div>
+<script type="text/javascript">
+    window.addEventListener("load", (e) => {
+        var option = {{ $r | safeJS }};
+        var myChart = echarts.init(document.getElementById('{{ $id }}'));
+        myChart.setOption(option);
+    });
+</script>
