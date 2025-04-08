@@ -134,15 +134,15 @@ lazy = true
 [[params.plugins.css]]
 link = "plugins/glightbox/glightbox.css"
 lazy = true
-[[params.plugins.css]]
-link = "plugins/font-awesome/v6/brands.css"
-lazy = true
-[[params.plugins.css]]
-link = "plugins/font-awesome/v6/solid.css"
-lazy = true
-[[params.plugins.css]]
-link = "plugins/font-awesome/v6/icons.css"
-lazy = true
+#[[params.plugins.css]]
+#link = "plugins/font-awesome/v6/brands.css"
+#lazy = true
+#[[params.plugins.css]]
+#link = "plugins/font-awesome/v6/solid.css"
+#lazy = true
+#[[params.plugins.css]]
+#link = "plugins/font-awesome/v6/icons.css"
+#lazy = true
 
 # JS Plugins
 [[params.plugins.js]]
@@ -169,8 +169,9 @@ lazy = true
 [[params.plugins.js]]
 link = "js/modal.js"
 lazy = true
-[[params.plugins.js]]
-link = "plugins/youtube-lite.js"
-lazy = true
+#[[params.plugins.js]]
+#link = "plugins/youtube-lite.js"
+#lazy = false
 [[params.plugins.js]]
 link = "plugins/echarts.min.js"
+lazy = false
