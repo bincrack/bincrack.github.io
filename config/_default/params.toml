@@ -62,7 +62,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["出版广角", "出版广角在线投稿", "出版广角投稿处", "出版广角联系方式", "出版广角收稿处", "出版广角杂志"]
+keywords = ["出版广角", "出版广角在线投稿", "出版广角投稿处", "出版广角联系方式", "出版广角收稿处", "出版广角杂志", "出版广角期刊"]
 description = "专业性学术期刊。《出版广角》杂志创刊于1995年，由广西师范大学主管、广西期刊传媒集团有限公司主办，以“与中国出版同步，为中国出版服务”为宗旨，站在中国出版主流文化的层面，悉心关注出版文化的大事和大势，已发展成为具有理论先导地位和新锐气象的高品位专业期刊。"
 author = "@2024"
 image = "images/og-image.png"
