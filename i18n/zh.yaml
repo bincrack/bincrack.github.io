@@ -8,13 +8,13 @@
   translation: Send
 
 - id: related_posts
-  translation: Related Posts
+  translation: 相关期刊
 
 - id: categories
   translation: 分类
 
 - id: tags
-  translation: 标签
+  translation: 相关标签
 
 - id: toc
   translation: 目录

@@ -1,0 +1,315 @@
+---
+title: 学校党建与思想教育杂志
+meta_title: 学校党建与思想教育杂志
+description: 《学校党建与思想教育》杂志（CN:42-1422/D）内容丰富、思想健康，1983年创刊，目前以半月刊形式发行，刊物对外积极扩大宣传，致力于提高杂志质量与影响。
+summary: <p>主管单位：中共湖北省委高校工作委员会湖北省教育厅</p><p>主办单位：湖北教育报刊社</p><p>发行级别：CSSCI南大期刊、北大期刊、统计源期刊</p><p>发行周期：半月刊</p>
+image: "/images/xxdjysxjy.jpg"
+categories: ["政治"]
+author: ""
+tags: ["政治军事法律综合","马克思主义","中国共产党","政治学","中国政治与国际政治","思想政治教育","行政学及国家行政管理","政党及群众组织","军事","公安","法理、法史","宪法","行政法及地方法制","民商法","刑法","经济法","诉讼法与司法制度","国际法","G157",]
+draft: false
+weight: 1
+---
+
+{{< toc >}}
+
+#### 学校党建与思想教育杂志简介
+|               |                               |               | CSSCI南大期刊、北大期刊、统计源期刊        |               |                           |
+| ------------: | :---------------------------- | ------------: | :---------------------------- | ------------: | :------------------------ |
+| 国际刊号      | 1007-5968   | 主管单位      | 中共湖北省委高校工作委员会湖北省教育厅     | 主办单位      | 湖北教育报刊社     |
+| 国内刊号      | 42-1422/D        | 类别          | 政治       | 出版地方      | 湖北           |
+| 影响因子      | 2.72        | 语种          | 中文             | 创刊年份      | 1983    |
+| 发行周期      | 半月刊    | 邮发          | 38-328              | 邮编          | 430079      |
+
+#### 学校党建与思想教育杂志栏目
+<span>CSSCI 南大期刊(含扩展版)</span>、<span>北大期刊(中国人文社会科学期刊)</span>、<span>统计源期刊(中国科技论文优秀期刊)</span>、<span>知网收录(中)</span>、<span>维普收录(中)</span>、<span>万方收录(中)</span>、<span>国家图书馆馆藏</span>、<span>上海图书馆馆藏</span>、<span>中国优秀期刊遴选数据库</span>、<span>中国期刊全文数据库（CJFD）</span>、<span>中国科技期刊优秀期刊</span>、<span>北大图书馆收录期刊</span>、
+
+#### 学校党建与思想教育杂志须知
+<p>None</p>
+
+
+#### 学校党建与思想教育杂志收录
+<ul>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志收录">
+        CSSCI 南大期刊(含扩展版)
+        </a>
+    </li>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志收录">
+        北大期刊(中国人文社会科学期刊)
+        </a>
+    </li>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志收录">
+        统计源期刊(中国科技论文优秀期刊)
+        </a>
+    </li>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志收录">
+        知网收录(中)
+        </a>
+    </li>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志收录">
+        维普收录(中)
+        </a>
+    </li>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志收录">
+        万方收录(中)
+        </a>
+    </li>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志收录">
+        国家图书馆馆藏
+        </a>
+    </li>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志收录">
+        上海图书馆馆藏
+        </a>
+    </li>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志收录">
+        中国优秀期刊遴选数据库
+        </a>
+    </li>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志收录">
+        中国期刊全文数据库（CJFD）
+        </a>
+    </li>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志收录">
+        中国科技期刊优秀期刊
+        </a>
+    </li>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志收录">
+        北大图书馆收录期刊
+        </a>
+    </li>
+</ul>
+
+
+
+#### 学校党建与思想教育杂志荣誉
+<ul>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志荣誉">
+        中国优秀期刊遴选数据库
+        </a>
+    </li>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志荣誉">
+        中国期刊全文数据库（CJFD）
+        </a>
+    </li>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志荣誉">
+        中国科技期刊优秀期刊
+        </a>
+    </li>
+    <li class="inline-block">
+        <a class="bg-theme-light hover:bg-primary dark:bg-darkmode-theme-light dark:hover:bg-darkmode-primary dark:hover:text-dark m-1 block rounded px-3 py-1 hover:text-white" href="#学校党建与思想教育杂志荣誉">
+        北大图书馆收录期刊
+        </a>
+    </li>
+</ul>
+
+
+
+#### 学校党建与思想教育杂志数据统计
+
+<div id="table_yxyz"></div>
+{{< chart >}}
+$(function () {
+			var chart = Highcharts.chart('table_yxyz', {
+				title:{text:'', x:-20 },
+				subtitle:{text:'', x:-20},
+				colors: ['#309ae6','#c6e8f9'],
+				credits:{enabled: false},
+				xAxis:{
+					categories: [
+						"2012年","2013年","2014年","2015年","2016年","2017年","2018年","2019年","2020年",
+					]
+				},
+				yAxis:[{
+						title: {text: '影响因子'},opposite: true
+					},{
+						title: {text: '发文量'},
+						
+					}],
+				plotLines: [{value:0, width:1,}],
+				tooltip:{valueSuffix: ''},
+				legend:{
+					layout: 'horizontal',
+					align: 'center',
+					verticalAlign: 'top',
+					borderWidth: 0
+				},
+				plotOptions: {
+					line: {dataLabels: {enabled: true}}},
+					series: [
+						{
+							name: '发文量',
+							pointWidth: 15,
+							type: 'column',
+							yAxis: 1,
+							data:[
+								1046,1404,1730,2121,2401,2730,3419,3751,2334,
+							]
+						},
+						{
+							name: '影响因子',
+							type: 'column',
+							pointWidth: 15,
+							data: [
+								0.117,0.163,0.123,0.196,0.352,0.502,0.557,0,0,
+							]
+						}
+					]
+				});
+			});
+{{< /chart >}}
+
+
+<div id="table_bybsq"></div>
+{{< chart >}}
+$(function(){
+				var chart = Highcharts.chart('table_bybsq', {
+				title:{text:'', x:-20 },
+				subtitle:{text:'', x:-20},
+				colors: ['#309ae6','#98d6ff'],
+				credits:{enabled: false},
+				xAxis:{
+					categories: ["2012年","2013年","2014年","2015年","2016年","2017年","2018年","2019年","2020年",]
+				},
+				yAxis:[{
+				title: {text: '被引半衰期'},
+				
+				},{
+				title: {text: '引用半衰期'},opposite: true
+				}],
+				plotLines: [{value:0, width:1,}],
+				tooltip:{valueSuffix: ''},
+				legend:{
+					layout: 'horizontal',
+					align: 'center',
+					verticalAlign: 'top',
+					borderWidth: 0
+				},
+				plotOptions: {
+					line: {dataLabels: {enabled: true}}},
+					series: [
+					{
+						name: '被引半衰期',
+						data: [0.982,0.983,0.983,0.989,0.985,0.988,0.992,1,1,],		
+					},
+					{
+						name: '引用半衰期',
+						yAxis: 1,
+						data: [1.9,2,2.7,2.5,2.6,2.8,2.8,0,0,],
+					}]
+				});
+			});
+{{< /chart >}}
+
+
+
+
+#### 学校党建与思想教育杂志主要发文学者分析
+| 学者姓                | 发文量                | 主要研究主题          |
+| :------------         | --------------------: | :-------------------- |
+| 伍处文   | 18     | 高校党建工作；学校党组织；中央组织部；高校；党的建设 |
+| 蒲清平   | 9     | 大学生；大数据；马克思主义；青年；课程 |
+| 赵冬鸣   | 8     | 高校；大学生；电力系统；思想政治教育；社会实践 |
+| 冯译冉   | 7     | 大学生；思想政治教育；河北省大学生；志愿服务；视阈 |
+| 孙志勇   | 6     | 大学生；思想政治教育；孝文化；河北省大学生；乡村 |
+| 许俊生   | 6     | 高职院校；实效性；高职学生；高职；思想政治理论课实效性 |
+| 陈方辉   | 6     | 高职院校；辅导员；状态数据采集平台；数据采集平台；思想政治教育 |
+| 王佳利   | 6     | 大学生；积极心理学；心理健康教育；高职院校；心理健康 |
+| 王华彪   | 6     | 高校；乡村；大学生；实效性；文化产业 |
+| 张迪   | 6     | 大学生；和谐社会；构建社会主义和谐社会；文化自觉；高校思想政治教育 |
+
+
+
+
+#### 学校党建与思想教育杂志主要发文机构分析
+| 机构名称              | 发文量                | 主要研究主题          |
+| :------------         | --------------------: | :-------------------- |
+| 武汉大学   | 161     | 高校；教育；政治；思想政治；大学生 |
+| 华中师范大学   | 99     | 政治；教育；高校；思想政治；大学生 |
+| 武汉理工大学   | 83     | 高校；政治；教育；思想政治；大学生 |
+| 西南大学   | 65     | 教育；大学生；高校；政治；思想政治 |
+| 中国地质大学   | 45     | 教育；高校；政治；大学生；思想政治 |
+| 黄冈师范学院   | 40     | 高校；大学生；教育；文化；教学 |
+| 广西师范大学   | 39     | 高校；教育；大学生；政治；思想政治 |
+| 华中科技大学   | 36     | 高校；教学；大学生；政治；思想政治 |
+| 扬州大学   | 35     | 教育；高校；大学生；政治；政治教育 |
+| 桂林理工大学   | 31     | 教育；高校；政治；思想政治；政治教育 |
+
+
+
+
+#### 学校党建与思想教育杂志主要资助项目分析
+| 涉及文献              | 资助项目              |
+| :------------         | :-------------------- |
+| 147   | 教育部人文社会科学研究基金   |
+| 136   | 江苏省教育厅哲学社会科学基金   |
+| 132   | 国家社会科学基金   |
+| 113   | 教育部人文社会科学研究专项任务项目   |
+| 78   | 湖北省教育厅人文社会科学研究项目   |
+| 67   | 中央高校基本科研业务费专项资金   |
+| 36   | 重庆市教育委员会人文社会科学研究项目   |
+| 32   | 河北省社会科学基金   |
+| 32   | 江苏省教育科学“十二五”规划项目   |
+| 25   | 河南省哲学社会科学规划项目   |
+
+
+
+
+#### 学校党建与思想教育杂志主要资助课题分析
+| 涉及文献              | 资助项目              |
+| :------------         | :-------------------- |
+| 4   | 国家社会科学基金(08BSH051)   |
+| 4   | 教育部人文社会科学研究基金(10YJA710020)   |
+| 3   | 教育部规划基金项目(11YJA710080)   |
+| 3   | 河南省哲学社会科学规划项目(2008FJY014)   |
+| 3   | 江苏省社会科学基金(13JYC015)   |
+| 3   | 国家社会科学基金(13ZD0037)   |
+| 3   | 国家社会科学基金(12CKS024)   |
+| 3   | 国家社会科学基金(13BKS076)   |
+| 3   | 广西高校思想政治教育理论与实践立项研究课题(无)   |
+| 3   | 湖北省教育厅人文社会科学研究项目(13g380)   |
+
+
+
+#### 学校党建与思想教育杂志常见问题
+{{< accordion "学校党建与思想教育杂志是核心期刊吗？是否被收录？" >}}
+学校党建与思想教育杂志被CSSCI 南大期刊(含扩展版)、北大期刊(中国人文社会科学期刊)、统计源期刊(中国科技论文优秀期刊)、知网收录(中)、维普收录(中)、万方收录(中)、国家图书馆馆藏、上海图书馆馆藏、中国优秀期刊遴选数据库、中国期刊全文数据库（CJFD）、中国科技期刊优秀期刊、北大图书馆收录期刊、等数据库收录。
+{{< /accordion >}}
+{{< accordion "学校党建与思想教育杂志论文投稿方向是什么？" >}}
+学校党建与思想教育杂志论文投稿方向：卷首语、书记校长论坛、理论前沿、中青年学者论坛、学科建设、高校党建、德育新思维德育园地、理论课教学学工视窗、等。
+{{< /accordion >}}
+{{< accordion "学校党建与思想教育杂志论文格式要求是什么？" >}}
+学校党建与思想教育杂志论文格式要求：
+- ①书写顺序文题、作者姓名、作者单位、中文摘要、关键词、中图分类号、文献标识码、文章编号、英文题目、英文作者姓名(用汉语拼音，姓前名后)，英文作者单位、英文摘要、英文关键词、正文、参考文献。
+- ②为方便前后文献对照检查，在投稿时作者应在文内的右上角标注序号，文后的参考文献也对应地标上序号，以免重复或漏掉文献。
+- ③注释采用脚注，一律置于当页脚下，采取1、2、3……的标号，通篇连续排号。不用尾注、文末参考文献的形式。
+- ④摘要采用第三人称写法，反映文章核心观点和创新观点，100-300字为宜。
+- ⑤请不要把稿件邮寄给个人，以免影响审稿和发表。
+{{< /accordion >}}
+{{< accordion "学校党建与思想教育杂志属于什么类别？刊期是多久？" >}}
+学校党建与思想教育杂志属于政治类期刊， 目前刊期为半月刊。
+{{< /accordion >}}
+{{< accordion "学校党建与思想教育杂志期刊级别是什么？" >}}
+学校党建与思想教育杂志期刊级别是CSSCI南大期刊、北大期刊、统计源期刊。
+{{< /accordion >}}
+{{< accordion "学校党建与思想教育杂志北大核心期刊吗？影响因子多少？" >}}
+学校党建与思想教育杂志影响因子是2.72。
+{{< /accordion >}}
+{{< accordion "学校党建与思想教育杂志国内刊号是多少？" >}}
+学校党建与思想教育杂志国内刊号是42-1422/D。
+{{< /accordion >}}

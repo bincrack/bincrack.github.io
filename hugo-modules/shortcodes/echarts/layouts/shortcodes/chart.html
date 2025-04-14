@@ -4,12 +4,15 @@
 {{ $seed := "foo" }}
 {{ $id := delimit (shuffle (split (md5 $seed) "" )) "" }}
 
+<!-- 
 <div id="{{ $id }}" style="width: {{ $w }}%;height: {{ $h }}px;margin: 0 auto">
-</div>
+</div> 
+-->
 <script type="text/javascript">
     window.addEventListener("load", (e) => {
-        var option = {{ $r | safeJS }};
-        var myChart = echarts.init(document.getElementById('{{ $id }}'));
-        myChart.setOption(option);
+        if (typeof($) == 'undefined') {
+            $ = (fnc) => fnc.call();
+        }
+        {{ $r | safeJS }}
     });
 </script>

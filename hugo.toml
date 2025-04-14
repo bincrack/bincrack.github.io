@@ -173,5 +173,5 @@ lazy = true
 #link = "plugins/youtube-lite.js"
 #lazy = false
 [[params.plugins.js]]
-link = "plugins/echarts.min.js"
+link = "plugins/highcharts.js"
 lazy = false
